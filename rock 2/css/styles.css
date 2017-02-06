@@ -1,0 +1,117 @@
+
+#nav {
+    background-color: #fff;
+}
+
+.navbar-tabs a{
+background-color:#fff;
+color:#000;
+}
+
+.navbar-tabs {
+background-color:#fff;
+}
+
+.navbar-tabs li a:hover 
+{
+ color: #990000;
+}
+
+#middle a{
+    font-family: 'Condiment', cursive;
+    color:#990000;
+    font-size: 2em;
+    }
+
+
+/* nav bar complete section below is the pictures*/
+#elvis {
+	height:auto;
+	max-width: 100%;
+	margin:5px;
+}
+
+#queen{
+	height:230px;
+	margin:5px;
+	width:400px;
+
+}
+
+#beatles {
+	height:230px;
+	width:400px;
+	margin: 5px 5px 0px 5px;
+}
+
+#text {
+	font-size:30px;
+	position: absolute;
+	bottom:40px;
+	left:85px;
+	color:white;
+	font-family:"shrikhand";
+}
+
+#text a{
+	color:#990000;
+	text-decoration: none;
+	background-color: #fff
+	
+}
+
+#text a:hover{
+	opacity: .5;
+	background-color:#fff;
+	color:#990000;
+}
+
+#text2 {
+	font-size:30px;
+	position: absolute;
+	top:150px;
+	left:85px;
+	color:white;
+	font-family:"shrikhand";
+}
+#text2 a{
+	color:#990000;
+	text-decoration: none;
+	background-color: #fff
+	
+}
+
+#text2 a:hover{
+	opacity: .5;
+	background-color:#fff;
+	color:#990000;
+}
+
+/*next 3 pictures */
+#guns {
+	height:230px;
+	margin:5px;
+	width:400px;
+}
+
+#avenged {
+	height:230px;
+	margin:5px;
+	width:400px;
+}
+
+#finger {
+	height:auto;
+	max-width:100%;
+	margin:5px;
+}
+
+footer {
+    background-color: #fff;
+    color: #000;
+    padding: 10px;
+    margin-top: 50px;
+    text-align: center;
+    border:solid;
+    border-width:1px;
+}
